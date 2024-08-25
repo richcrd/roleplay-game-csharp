@@ -1,0 +1,7 @@
+C:\Users\maria magdalena\Desktop\C# Projects\Combat Game\Combat Game\bin\Debug\Combat Game.exe.config
+C:\Users\maria magdalena\Desktop\C# Projects\Combat Game\Combat Game\bin\Debug\Combat Game.exe
+C:\Users\maria magdalena\Desktop\C# Projects\Combat Game\Combat Game\bin\Debug\Combat Game.pdb
+C:\Users\maria magdalena\Desktop\C# Projects\Combat Game\Combat Game\obj\Debug\Combat Game.csproj.AssemblyReference.cache
+C:\Users\maria magdalena\Desktop\C# Projects\Combat Game\Combat Game\obj\Debug\Combat Game.csproj.CoreCompileInputs.cache
+C:\Users\maria magdalena\Desktop\C# Projects\Combat Game\Combat Game\obj\Debug\Combat Game.exe
+C:\Users\maria magdalena\Desktop\C# Projects\Combat Game\Combat Game\obj\Debug\Combat Game.pdb
